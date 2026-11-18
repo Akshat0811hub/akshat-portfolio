@@ -1,0 +1,14 @@
+{
+  "name": "akshat-singh-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Awwwards-level Freelance Full-Stack Developer & Designer Portfolio for Akshat Singh",
+  "scripts": {
+    "install:all": "npm install --prefix frontend && npm install --prefix backend",
+    "dev:frontend": "npm run dev --prefix frontend",
+    "dev:backend": "npm run dev --prefix backend",
+    "build": "npm run build --prefix frontend",
+    "preview": "npm run preview --prefix frontend",
+    "start:backend": "npm run start --prefix backend"
+  }
+}

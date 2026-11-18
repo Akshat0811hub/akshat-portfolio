@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#09090B"/>
+  <circle cx="980" cy="180" r="240" fill="#D4FF00" fill-opacity="0.12"/>
+  <rect x="60" y="60" width="1080" height="510" rx="28" stroke="#27272A" stroke-width="2"/>
+  <text x="110" y="160" fill="#D4FF00" font-family="monospace" font-size="22" letter-spacing="4">AVAILABLE FOR WORLDWIDE PROJECTS</text>
+  <text x="110" y="290" fill="#FFFFFF" font-family="sans-serif" font-weight="800" font-size="92">AKSHAT SINGH.</text>
+  <text x="110" y="370" fill="#A1A1AA" font-family="sans-serif" font-size="36">Freelance Full-Stack Developer &amp; UI/UX Designer</text>
+  <text x="110" y="480" fill="#D4FF00" font-family="monospace" font-size="24">Websites • Custom CRMs • Web Apps • Branding • Product Redesign</text>
+</svg>

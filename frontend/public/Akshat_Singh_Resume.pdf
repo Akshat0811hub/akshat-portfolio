@@ -1,0 +1,63 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /MediaBox [0 0 612 792] /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Length 760 >>
+stream
+BT
+/F1 24 Tf
+50 730 Td
+(AKSHAT SINGH) Tj
+/F2 12 Tf
+0 -22 Td
+(Freelance Full-Stack Developer & Digital Product Designer | India - Worldwide) Tj
+0 -18 Td
+(Email: singhakshat875@gmail.com  |  Phone/WhatsApp: +91 9599535114) Tj
+0 -16 Td
+(GitHub: github.com/Akshat0811hub  |  Instagram: @__.akshatt) Tj
+/F1 14 Tf
+0 -36 Td
+(CORE SERVICES & CAPABILITIES) Tj
+/F2 11 Tf
+0 -20 Td
+(1. High-Converting Website Design & Full-Stack Development \(React, Next.js, Three.js, GSAP\)) Tj
+0 -16 Td
+(2. Custom CRM Systems \(Role-based pipelines, analytics, workflow automation\)) Tj
+0 -16 Td
+(3. Custom Software & Scalable Web Applications \(Node.js, PostgreSQL, MongoDB, Cloud\)) Tj
+0 -16 Td
+(4. Brand Identity & Design Systems \(Typography, UI Kits, Interactive Guidelines\)) Tj
+0 -16 Td
+(5. Product Redesign & Conversion Optimization \(UX Audits, Performance Engineering\)) Tj
+0 -16 Td
+(6. Ongoing Maintenance, SLA Support & Security Hardening) Tj
+ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000311 00000 n 
+0000000377 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+1189
+%%EOF
